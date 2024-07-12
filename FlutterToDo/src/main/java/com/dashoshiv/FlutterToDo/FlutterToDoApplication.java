@@ -8,7 +8,7 @@ public class FlutterToDoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FlutterToDoApplication.class, args);
-		System.out.println("Hello");
+		System.out.println("Application Backend is working");
 	}
 
 }
